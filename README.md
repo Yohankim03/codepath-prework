@@ -1,7 +1,7 @@
 ## Prework App
 
 ### App Description
-`TODO://` Button changes the color of the text "Hello World".
+Button changes the color of the text "Hello World".
 
 ### App Walk-though
 <img src="http://g.recordit.co/9SS05UUS2c.gif" width=200><br>
